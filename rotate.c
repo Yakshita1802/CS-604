@@ -5,7 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void rotate_4(int *p_a, int *p_b, int *p_c, int *p_d) {
+void rotate_4(int *p_a, int *p_b, int *p_c, int *p_d) 
+{
     //TO-DO: please implement left-rotate 4 integers by one position
   /* rotate using temp variable. The temp variable will be store the value of the first variable.
       this will help me to rotate two variables and then assign the value of temp to the second variable.
